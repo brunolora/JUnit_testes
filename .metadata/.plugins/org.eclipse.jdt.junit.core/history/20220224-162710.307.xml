@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CodigoPessoaFisicaTeste" project="Cp1" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="br.com.fiap.tdsh.CodigoPessoaFisicaTeste" time="0.001">
+    <testcase name="testCpfErrado" classname="br.com.fiap.tdsh.CodigoPessoaFisicaTeste" time="0.0"/>
+    <testcase name="testRemocaoCaracEspeciais" classname="br.com.fiap.tdsh.CodigoPessoaFisicaTeste" time="0.001"/>
+    <testcase name="testCpfCerto" classname="br.com.fiap.tdsh.CodigoPessoaFisicaTeste" time="0.0"/>
+  </testsuite>
+</testrun>
